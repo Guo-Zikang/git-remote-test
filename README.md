@@ -1,1 +1,1 @@
-测试git remote origin master用法
+测试git remote origin master/main用法
